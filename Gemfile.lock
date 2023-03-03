@@ -82,6 +82,7 @@ GEM
     concurrent-ruby (1.2.2)
     crass (1.0.6)
     date (3.3.3)
+    did_you_mean (1.6.3)
     diff-lcs (1.5.0)
     erubi (1.12.0)
     execjs (2.8.1)
@@ -270,6 +271,7 @@ DEPENDENCIES
   capybara (>= 2.15)
   chromedriver-helper
   coffee-rails (~> 4.2)
+  did_you_mean
   factory_bot_rails (~> 4.11)
   html2slim
   jbuilder (~> 2.5)
